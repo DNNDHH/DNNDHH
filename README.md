@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=Hi%20🍆%20👋&fontSize=40)
 <p align="left">
   <a href="https://github.com/DNDHH"><img src="https://github-readme-stats.vercel.app/api?username=DNDHH&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&username=DNNDHH" /></a>
   <img align="right" src="https://www.fate-go.jp/manga_fgo2/images/commnet_chara14.png" width="300px" />
 </p>
 
